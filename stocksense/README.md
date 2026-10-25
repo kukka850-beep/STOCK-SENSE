@@ -20,7 +20,7 @@ A full-stack SaaS application for real-time stock market analytics, ML-powered p
 | Backend | Node.js, Express, Socket.io, JWT |
 | ML Service | Python, FastAPI, Prophet, yfinance |
 | Database | MongoDB, Redis |
-| Deployment | Vercel (frontend), Railway (backend + ML) |
+
 
 ## 🏗️ Architecture
 stocksense/
